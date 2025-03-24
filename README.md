@@ -1,4 +1,4 @@
-## Projetos desenvolvidos durante o Estágio na Compass Uol
+## Projetos desenvolvidos durante o Estágio na Compass UOL
 
 ### 1. [Monitoramento de Status do Nginx na AWS](nginx-monitoring-aws/)  
 **Tecnologias**: EC2, Shell Script, Cron.  
